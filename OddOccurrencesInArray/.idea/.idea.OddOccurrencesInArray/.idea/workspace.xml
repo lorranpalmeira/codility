@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92fb0172-d05e-4cf2-bfae-b84bf2d3b615" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OddOccurrencesInArray/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-900">
+              <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+              <folding>
+                <marker date="1558219273065" expanded="true" signature="6:122" ph="..." />
+                <marker date="1558219273065" expanded="true" signature="155:3942" ph="{...}" />
+                <marker date="1558219273065" expanded="true" signature="175:3940" ph="{...}" />
+                <marker date="1558219273065" expanded="true" signature="223:1462" ph="{...}" />
+                <marker date="1558219273065" expanded="true" signature="670:1007" ph="/* BITWISE ... */" />
+                <marker date="1558219273065" expanded="true" signature="1529:2668" ph="{...}" />
+                <marker date="1558219273065" expanded="true" signature="1683:1952" ph="{...}" />
+                <marker date="1558219273065" expanded="true" signature="1715:1780" ph="/* right pos 1 by value of ... */" />
+                <marker date="1558219273065" expanded="true" signature="1836:1908" ph="/* Toggle the bit everytime ... */" />
+                <marker date="1558219273065" expanded="true" signature="1969:2055" ph="/* Traverse array again and use _xor ... */" />
+                <marker date="1558219273065" expanded="true" signature="2096:2657" ph="{...}" />
+                <marker date="1558219273065" expanded="true" signature="2128:2195" ph="/* right shift 1 by value of ... */" />
+                <marker date="1558219273065" expanded="true" signature="2251:2320" ph="/* Each 0 in _xor represents ... */" />
+                <marker date="1558219273065" expanded="true" signature="2364:2642" ph="{...}" />
+                <marker date="1558219273065" expanded="true" signature="2519:2590" ph="/* set bit as 1 to avoid ... */" />
+                <marker date="1558219273065" expanded="true" signature="2724:3932" ph="{...}" />
+                <marker date="1558219273065" expanded="true" signature="2845:3090" ph="{...}" />
+                <marker date="1558219273065" expanded="true" signature="3120:3908" ph="/* int[] newNumberArray = new int[numberArray.Length]; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>plugin</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/OddOccurrencesInArray/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///C# Console" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/OddOccurrencesInArray/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1536" />
+    <option name="y" value="84" />
+    <option name="width" value="1296" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="RiderAzureCSharpFileTemplatesSettingsId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/OddOccurrencesInArray/bin/Debug/netcoreapp2.2/OddOccurrencesInArray.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OddOccurrencesInArray" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OddOccurrencesInArray/OddOccurrencesInArray.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92fb0172-d05e-4cf2-bfae-b84bf2d3b615" name="Default Changelist" comment="" />
+      <created>1558137343073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558137343073</updated>
+      <workItem from="1558137346973" duration="2999000" />
+      <workItem from="1558141314343" duration="18556000" />
+      <workItem from="1558200005325" duration="14639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="36194000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1536" y="84" width="1296" height="735" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27508092" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46634614" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48979592" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32993197" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="elem" />
+        <watch expression="A[i]" language="C#" custom="RiderImportsList:" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>A[i]</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>elem</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>numberArray[i+2]</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>numberArray[i]</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OddOccurrencesInArray/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900">
+          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <marker date="1558219273065" expanded="true" signature="6:122" ph="..." />
+            <marker date="1558219273065" expanded="true" signature="155:3942" ph="{...}" />
+            <marker date="1558219273065" expanded="true" signature="175:3940" ph="{...}" />
+            <marker date="1558219273065" expanded="true" signature="223:1462" ph="{...}" />
+            <marker date="1558219273065" expanded="true" signature="670:1007" ph="/* BITWISE ... */" />
+            <marker date="1558219273065" expanded="true" signature="1529:2668" ph="{...}" />
+            <marker date="1558219273065" expanded="true" signature="1683:1952" ph="{...}" />
+            <marker date="1558219273065" expanded="true" signature="1715:1780" ph="/* right pos 1 by value of ... */" />
+            <marker date="1558219273065" expanded="true" signature="1836:1908" ph="/* Toggle the bit everytime ... */" />
+            <marker date="1558219273065" expanded="true" signature="1969:2055" ph="/* Traverse array again and use _xor ... */" />
+            <marker date="1558219273065" expanded="true" signature="2096:2657" ph="{...}" />
+            <marker date="1558219273065" expanded="true" signature="2128:2195" ph="/* right shift 1 by value of ... */" />
+            <marker date="1558219273065" expanded="true" signature="2251:2320" ph="/* Each 0 in _xor represents ... */" />
+            <marker date="1558219273065" expanded="true" signature="2364:2642" ph="{...}" />
+            <marker date="1558219273065" expanded="true" signature="2519:2590" ph="/* set bit as 1 to avoid ... */" />
+            <marker date="1558219273065" expanded="true" signature="2724:3932" ph="{...}" />
+            <marker date="1558219273065" expanded="true" signature="2845:3090" ph="{...}" />
+            <marker date="1558219273065" expanded="true" signature="3120:3908" ph="/* int[] newNumberArray = new int[numberArray.Length]; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

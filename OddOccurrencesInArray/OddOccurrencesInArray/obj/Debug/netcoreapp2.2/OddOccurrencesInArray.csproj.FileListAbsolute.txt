@@ -1,0 +1,11 @@
+C:\Users\lalvespa\RiderProjects\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\netcoreapp2.2\OddOccurrencesInArray.deps.json
+C:\Users\lalvespa\RiderProjects\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\netcoreapp2.2\OddOccurrencesInArray.runtimeconfig.json
+C:\Users\lalvespa\RiderProjects\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\netcoreapp2.2\OddOccurrencesInArray.runtimeconfig.dev.json
+C:\Users\lalvespa\RiderProjects\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\netcoreapp2.2\OddOccurrencesInArray.dll
+C:\Users\lalvespa\RiderProjects\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\netcoreapp2.2\OddOccurrencesInArray.pdb
+C:\Users\lalvespa\RiderProjects\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\netcoreapp2.2\OddOccurrencesInArray.csprojAssemblyReference.cache
+C:\Users\lalvespa\RiderProjects\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\netcoreapp2.2\OddOccurrencesInArray.csproj.CoreCompileInputs.cache
+C:\Users\lalvespa\RiderProjects\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\netcoreapp2.2\OddOccurrencesInArray.AssemblyInfoInputs.cache
+C:\Users\lalvespa\RiderProjects\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\netcoreapp2.2\OddOccurrencesInArray.AssemblyInfo.cs
+C:\Users\lalvespa\RiderProjects\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\netcoreapp2.2\OddOccurrencesInArray.dll
+C:\Users\lalvespa\RiderProjects\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\netcoreapp2.2\OddOccurrencesInArray.pdb

@@ -1,0 +1,11 @@
+C:\Users\lalvespa\RiderProjects\FrogJmp\bin\Debug\netcoreapp2.2\FrogJmp.deps.json
+C:\Users\lalvespa\RiderProjects\FrogJmp\bin\Debug\netcoreapp2.2\FrogJmp.runtimeconfig.json
+C:\Users\lalvespa\RiderProjects\FrogJmp\bin\Debug\netcoreapp2.2\FrogJmp.runtimeconfig.dev.json
+C:\Users\lalvespa\RiderProjects\FrogJmp\bin\Debug\netcoreapp2.2\FrogJmp.dll
+C:\Users\lalvespa\RiderProjects\FrogJmp\bin\Debug\netcoreapp2.2\FrogJmp.pdb
+C:\Users\lalvespa\RiderProjects\FrogJmp\obj\Debug\netcoreapp2.2\FrogJmp.csprojAssemblyReference.cache
+C:\Users\lalvespa\RiderProjects\FrogJmp\obj\Debug\netcoreapp2.2\FrogJmp.csproj.CoreCompileInputs.cache
+C:\Users\lalvespa\RiderProjects\FrogJmp\obj\Debug\netcoreapp2.2\FrogJmp.AssemblyInfoInputs.cache
+C:\Users\lalvespa\RiderProjects\FrogJmp\obj\Debug\netcoreapp2.2\FrogJmp.AssemblyInfo.cs
+C:\Users\lalvespa\RiderProjects\FrogJmp\obj\Debug\netcoreapp2.2\FrogJmp.dll
+C:\Users\lalvespa\RiderProjects\FrogJmp\obj\Debug\netcoreapp2.2\FrogJmp.pdb

@@ -1,0 +1,11 @@
+C:\Users\lalvespa\RiderProjects\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp2.2\CyclicRotation.deps.json
+C:\Users\lalvespa\RiderProjects\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp2.2\CyclicRotation.runtimeconfig.json
+C:\Users\lalvespa\RiderProjects\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp2.2\CyclicRotation.runtimeconfig.dev.json
+C:\Users\lalvespa\RiderProjects\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp2.2\CyclicRotation.dll
+C:\Users\lalvespa\RiderProjects\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp2.2\CyclicRotation.pdb
+C:\Users\lalvespa\RiderProjects\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp2.2\CyclicRotation.csprojAssemblyReference.cache
+C:\Users\lalvespa\RiderProjects\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp2.2\CyclicRotation.csproj.CoreCompileInputs.cache
+C:\Users\lalvespa\RiderProjects\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp2.2\CyclicRotation.AssemblyInfoInputs.cache
+C:\Users\lalvespa\RiderProjects\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp2.2\CyclicRotation.AssemblyInfo.cs
+C:\Users\lalvespa\RiderProjects\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp2.2\CyclicRotation.dll
+C:\Users\lalvespa\RiderProjects\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp2.2\CyclicRotation.pdb

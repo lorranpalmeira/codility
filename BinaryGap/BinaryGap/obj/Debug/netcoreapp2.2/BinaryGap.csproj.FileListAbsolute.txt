@@ -1,0 +1,11 @@
+C:\Users\lalvespa\RiderProjects\BinaryGap\BinaryGap\bin\Debug\netcoreapp2.2\BinaryGap.deps.json
+C:\Users\lalvespa\RiderProjects\BinaryGap\BinaryGap\bin\Debug\netcoreapp2.2\BinaryGap.runtimeconfig.json
+C:\Users\lalvespa\RiderProjects\BinaryGap\BinaryGap\bin\Debug\netcoreapp2.2\BinaryGap.runtimeconfig.dev.json
+C:\Users\lalvespa\RiderProjects\BinaryGap\BinaryGap\bin\Debug\netcoreapp2.2\BinaryGap.dll
+C:\Users\lalvespa\RiderProjects\BinaryGap\BinaryGap\bin\Debug\netcoreapp2.2\BinaryGap.pdb
+C:\Users\lalvespa\RiderProjects\BinaryGap\BinaryGap\obj\Debug\netcoreapp2.2\BinaryGap.csprojAssemblyReference.cache
+C:\Users\lalvespa\RiderProjects\BinaryGap\BinaryGap\obj\Debug\netcoreapp2.2\BinaryGap.csproj.CoreCompileInputs.cache
+C:\Users\lalvespa\RiderProjects\BinaryGap\BinaryGap\obj\Debug\netcoreapp2.2\BinaryGap.AssemblyInfoInputs.cache
+C:\Users\lalvespa\RiderProjects\BinaryGap\BinaryGap\obj\Debug\netcoreapp2.2\BinaryGap.AssemblyInfo.cs
+C:\Users\lalvespa\RiderProjects\BinaryGap\BinaryGap\obj\Debug\netcoreapp2.2\BinaryGap.dll
+C:\Users\lalvespa\RiderProjects\BinaryGap\BinaryGap\obj\Debug\netcoreapp2.2\BinaryGap.pdb
