@@ -1,0 +1,11 @@
+C:\Users\lalvespa\RiderProjects\Codility\PermMissingElem\PermMissingElem\bin\Debug\netcoreapp2.2\PermMissingElem.deps.json
+C:\Users\lalvespa\RiderProjects\Codility\PermMissingElem\PermMissingElem\bin\Debug\netcoreapp2.2\PermMissingElem.runtimeconfig.json
+C:\Users\lalvespa\RiderProjects\Codility\PermMissingElem\PermMissingElem\bin\Debug\netcoreapp2.2\PermMissingElem.runtimeconfig.dev.json
+C:\Users\lalvespa\RiderProjects\Codility\PermMissingElem\PermMissingElem\bin\Debug\netcoreapp2.2\PermMissingElem.dll
+C:\Users\lalvespa\RiderProjects\Codility\PermMissingElem\PermMissingElem\bin\Debug\netcoreapp2.2\PermMissingElem.pdb
+C:\Users\lalvespa\RiderProjects\Codility\PermMissingElem\PermMissingElem\obj\Debug\netcoreapp2.2\PermMissingElem.csprojAssemblyReference.cache
+C:\Users\lalvespa\RiderProjects\Codility\PermMissingElem\PermMissingElem\obj\Debug\netcoreapp2.2\PermMissingElem.csproj.CoreCompileInputs.cache
+C:\Users\lalvespa\RiderProjects\Codility\PermMissingElem\PermMissingElem\obj\Debug\netcoreapp2.2\PermMissingElem.AssemblyInfoInputs.cache
+C:\Users\lalvespa\RiderProjects\Codility\PermMissingElem\PermMissingElem\obj\Debug\netcoreapp2.2\PermMissingElem.AssemblyInfo.cs
+C:\Users\lalvespa\RiderProjects\Codility\PermMissingElem\PermMissingElem\obj\Debug\netcoreapp2.2\PermMissingElem.dll
+C:\Users\lalvespa\RiderProjects\Codility\PermMissingElem\PermMissingElem\obj\Debug\netcoreapp2.2\PermMissingElem.pdb

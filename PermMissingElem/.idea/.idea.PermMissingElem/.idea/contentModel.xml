@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\lalvespa\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\lalvespa\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_PermMissingElem.872269772.00" t="ExcludeRecursive" />
+    <e p="C:\Users\lalvespa\RiderProjects\Codility\PermMissingElem" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PermMissingElem" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="PermMissingElem.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PermMissingElem.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="PermMissingElem.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
